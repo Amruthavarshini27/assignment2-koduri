@@ -1,1 +1,3 @@
-# assignment2-koduri
+# AMRUTHA VARSHINI KODURI
+## Chhatrapati Shivaji Maharaj
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, originally named Prince of Wales Museum of Western India, is a museum in **Bombay** (Mumbai) which documents the history of India from prehistoric to modern times. It was founded during British rule of India in the  early years of the 20th century by prominent citizens of the city then called Bombay, with the help of the government, to commemorate the visit of the Prince of Wales (later George V, king of the **United Kingdom** and emperor of India). It is located in the heart of South Mumbai near the Gateway of India. The museum was renamed in 1998 after Chhatrapati Shivaji Maharaj, the founder of the **Maratha Empire**.

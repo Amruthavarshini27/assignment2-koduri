@@ -1,0 +1,3 @@
+# AMRUTHA VARSHINI KODURI
+I'm a professional artist and  been a professional dancer for over 7 years and I love to fully immerse myself in my work. I paint mostly outdoor scenes,  When I'm not working, you can find me cooking up a new recipe,  hiking, painting  or enjoying some time at the beach. At home, I love a peaceful environment- I grew up with a lot of siblings  love to give lessons to little ones in my spare time. 
+![My IMAGE](IMG-1277.jpg)

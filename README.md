@@ -37,3 +37,36 @@ There some cities we must visit For travelers hoping to find inspiration for the
 >Look deep into nature, and then you will understand everything better. —*Albert Einstein*
 
 >In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they're still beautiful. –*Alice Walker*
+
+*****
+
+# Code Snippet
+
+>Getting a Border/background Around Slider CSS/HTML
+>
+[Source of Stackoverflow question](https://stackoverflow.com/questions/73642540/getting-a-border-background-around-slider-css-html)
+```
+.typewriter h1 {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+```
+[Source of Code Snippet](https://css-tricks.com/snippets/css/typewriter-effect/)

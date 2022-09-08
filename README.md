@@ -30,3 +30,10 @@ There some cities we must visit For travelers hoping to find inspiration for the
 | Vizag | RK Beach | 2 hr |
 | Goa | Baaga Beach | 4 hr |
 | Banglore | Bridhavan garden | 1 hr |
+
+******
+
+# Nature Quotes
+>Look deep into nature, and then you will understand everything better. —*Albert Einstein*
+
+>In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they're still beautiful. –*Alice Walker*

@@ -18,3 +18,15 @@ Some places around the museum to visit
 * Powai Lake
 
 [Link to known more about me](AboutMe.md)
+
+******
+
+# Cities to Visit
+
+There some cities we must visit For travelers hoping to find inspiration for their next trip, here is a list of some of the top cities in the India to visit.
+| Name of the City | Location | Duration |
+| :--- | :--- | :--- |
+| Hyderabad| Ramoji Film city | 4 hr |
+| Vizag | RK Beach | 2 hr |
+| Goa | Baaga Beach | 4 hr |
+| Banglore | Bridhavan garden | 1 hr |
